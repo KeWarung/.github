@@ -46,5 +46,5 @@ An inventory management application to help store owners efficiently manage stor
 [linkedin-anggie]: https://www.linkedin.com/in/anggie-nur-prastowo-06b5a9271/
 [linkedin-ajeng]: https://www.linkedin.com/in/rizka-ajeng-kartini-574249181/
 [linkedin-suryani]: https://www.linkedin.com/in/suryani-lestari/
-[linkedin-dwina]: www.linkedin.com/in/dwinanugraha
+[linkedin-dwina]: https://www.linkedin.com/in/dwinanugraha
 [linkedin-rena]: https://www.linkedin.com/in/renanthera-rahmadwiningtyas-5a3b291b0/
